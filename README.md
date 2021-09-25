@@ -1,5 +1,5 @@
 # galaxyweb
-Galaxy Payment web application
+Galaxy Network web application
 
 Summary: This is a Django-based web application serving as a direct interface to the IPPN.
 
